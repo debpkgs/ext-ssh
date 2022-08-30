@@ -13,11 +13,11 @@ Build-Depends: debhelper-compat (= 13)
 Package-List:
  ext-ssh deb admin optional arch=all
 Checksums-Sha1:
- 6f4bd05787527dfcf695b005c5922bf3b820f47a 300 ext-ssh_1.0.0.orig.tar.xz
+ f1a4219eab41fce1cc61e388e5755a5dad50c8e5 300 ext-ssh_1.0.0.orig.tar.xz
  95318d1ae8e3ddf591d7442a3e7e592975cc5d5e 752 ext-ssh_1.0.0-1.debian.tar.xz
 Checksums-Sha256:
- 3c4a37bd19129fa735569528fcb5b345d31bff165ea050d901c227fc0a4af322 300 ext-ssh_1.0.0.orig.tar.xz
+ 90b4a378a882f217f8803910b2a4029ca2b29c7ed8f37bff5021310d80c38b3a 300 ext-ssh_1.0.0.orig.tar.xz
  1c9e9f78246a21512bb9c2bbafac7b098ecf19584e263380a6dd93030211ad07 752 ext-ssh_1.0.0-1.debian.tar.xz
 Files:
- 5466da6444d4321f8908586baeb944fa 300 ext-ssh_1.0.0.orig.tar.xz
+ 311c56fd463a5babb8cf2d70def81a73 300 ext-ssh_1.0.0.orig.tar.xz
  f448092187e6570b6fcb6ce8a02a9f60 752 ext-ssh_1.0.0-1.debian.tar.xz
