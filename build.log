@@ -1,0 +1,23 @@
+--- [SYSTEM] PACK: 'ext-ssh' (*.orig.tar.xz)
+File '*.orig.tar.*' not found! Creating...
+File 'ext-ssh_1.0.0.orig.tar.xz' created!
+--- [SYSTEM] BUILD: 'github.com/pkgstore/linux-deb-ext-ssh.git'
+dpkg-source: info: using source format '3.0 (quilt)'
+dpkg-source: info: building ext-ssh using existing ./ext-ssh_1.0.0.orig.tar.xz
+dpkg-source: warning: ignoring deletion of directory sshd_config.d
+dpkg-source: warning: ignoring deletion of file sshd_config.d/sshd.custom.conf, use --include-removal to override
+dpkg-source: info: building ext-ssh in ext-ssh_1.0.0-1.debian.tar.xz
+dpkg-source: info: building ext-ssh in ext-ssh_1.0.0-1.dsc
+File 'ext-ssh_1.0.0-1.dsc' found!
+Build completed!
+--- [SYSTEM] MOVE: '/root/git/repo_src' -> '/root/git/repo_dst'
+Removing old files from repository...
+Moving new files to repository...
+renamed '/root/git/repo_src/_service' -> '/root/git/repo_dst/_service'
+renamed '/root/git/repo_src/_meta' -> '/root/git/repo_dst/_meta'
+renamed '/root/git/repo_src/README.md' -> '/root/git/repo_dst/README.md'
+renamed '/root/git/repo_src/LICENSE' -> '/root/git/repo_dst/LICENSE'
+renamed '/root/git/repo_src/ext-ssh_1.0.0-1.debian.tar.xz' -> '/root/git/repo_dst/ext-ssh_1.0.0-1.debian.tar.xz'
+renamed '/root/git/repo_src/ext-ssh_1.0.0.orig.tar.xz' -> '/root/git/repo_dst/ext-ssh_1.0.0.orig.tar.xz'
+renamed '/root/git/repo_src/ext-ssh_1.0.0-1.dsc' -> '/root/git/repo_dst/ext-ssh_1.0.0-1.dsc'
+renamed '/root/git/repo_src/build.log' -> '/root/git/repo_dst/build.log'
